@@ -1,3 +1,3 @@
 # Kurulum
 
-Linki kullanabilirsiniz --> euphonious-concha-181c76.netlify.app
+Linki kullanabilirsiniz --> https://euphonious-concha-181c76.netlify.app
